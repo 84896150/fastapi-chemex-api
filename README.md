@@ -13,4 +13,4 @@ docker run -dit \
   --name chemexapi \
   --hostname chemexapi \
   --restart unless-stopped \
-  fastapi-chemex-api
+  84896150/fastapi-chemex-api:latest
