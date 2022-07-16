@@ -14,3 +14,5 @@ docker run -dit \
   --hostname chemexapi \
   --restart unless-stopped \
   84896150/fastapi-chemex-api:latest
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
